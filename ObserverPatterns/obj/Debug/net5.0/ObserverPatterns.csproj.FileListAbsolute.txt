@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.exe
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.deps.json
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.runtimeconfig.json
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.dll
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\bin\Debug\net5.0\ObserverPatterns.pdb
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.dll
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\refint\ObserverPatterns.dll
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.pdb
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ObserverPatterns.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ObserverPatterns\ObserverPatterns\obj\Debug\net5.0\ref\ObserverPatterns.dll
